@@ -1,7 +1,7 @@
 # Contents
 This repository contains full documentation for the paper:
 
-> Wolfe, C.A. (In Review). Beyond chronological age: Modeling human growth trajectories using dental development stages. American Journal of Biological Anthropology.
+> Wolfe, C.A. (In Review). Beyond chronological age: Modeling human growth trajectories using dental development stages. American Journal of Human Biology.
 
 To run the code for this paper locally, please ensure that [R](https://www.r-project.org/) and optionally, [RStudio](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads), are installed. Note, for full recreation with the documents here, users must also utilize the [Stan Programming Language](https://mc-stan.org/) and optionally, the [cmdstanr](https://mc-stan.org/cmdstanr/index.html) interface. 
 
