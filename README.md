@@ -19,12 +19,13 @@ All code to recreate the results, figures, and tables can be found in the `code`
 
 1. [model_fit.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/model_fit.R) imports all SVAD data and fits the requisite growth models.
 2. [Figure1.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/Figure1.R) recreates Figure 1. Note, the Harpenden dataset is required for full reproducibility.
-3. [Figure2.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/Figure2.R) recreates Figure 2.
+3. [Figure2.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/Figure2.R) recreates Figure 2. Note, the [errors_in_variables_growth.stan] model is required for this step.
 4. [Figure3.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/Figure3.R) recreates Figure 3.
 5. [Figure4.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/Figure4.R) recreates Figure 4.
 6. [Figure5.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/Figure5.R) recreates Figure 5.
-7. [Figure6.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/Figure6.R) recreates Figure 6. Note, the [errors_in_variables_growth.stan] model is required for this step.
-8. [tables.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/tables.R) recreates Tables 2-5 from the text.
+7. [Figure6.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/Figure6.R) recreates Figure 6.
+8. [Figure7.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/Figure7.R) recreates Figure 6.
+9. [tables.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/tables.R) recreates Tables 1-4 from the text.
 
 Note, the [Supporting Information](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/SI_Submission1.pdf) file is also included for full model transparency and description.
 
